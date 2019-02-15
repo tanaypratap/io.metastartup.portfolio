@@ -4,10 +4,10 @@
 Learning HTML and CSS has always been a challenge. There's a wide variety of APIs and you don't need what to master. This course aims to buil the core skills of a web developer by building the thing which is most important to a web developer i.e. a Portfolio.
 
 ## Fees
-This course is completely free
-Few ways in which you can thank me  
+This course is completely free  
+Few ways in which you can thank the author
   * Star this repository
-  * Subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA?view_as=subscriber?sub_confirmation=1)
+  * Subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA?sub_confirmation=1)
   * Follow me on Instagram](https://www.instagram.com/tanaypratap/) and help me shape the course better
 
 ## Course Videos 
