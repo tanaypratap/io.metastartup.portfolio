@@ -7,8 +7,8 @@ Learning HTML and CSS has always been a challenge. There's a wide variety of API
 This course is completely free  
 Few ways in which you can thank the author
   * Star this repository
-  * Subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA?sub_confirmation=1)
-  * Follow me on Instagram](https://www.instagram.com/tanaypratap/) and help me shape the course better
+  * Subscribe to my [Youtube Channel](http://bit.ly/2Ipc9hE)
+  * Follow me on [Instagram](https://www.instagram.com/tanaypratap/) and help me shape the course better
 
 ## Course Videos 
 Videos are hosted on [Youtube](https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA?view_as=subscriber
