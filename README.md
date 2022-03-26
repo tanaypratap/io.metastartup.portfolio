@@ -11,7 +11,7 @@ Few ways in which you can thank the author
   * Follow me on [Instagram](https://www.instagram.com/tanaypratap/) and help me shape the course better
 
 ## Course Videos 
-Videos are hosted on [Youtube](https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA?view_as=subscriber
+Videos are hosted on [Youtube](https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA?view_as=subscriber)
 
 ## Pre-requisites
 Nothing, na-da, zilch! As long as you can read and type English you're good to go.
